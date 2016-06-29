@@ -6,6 +6,8 @@ This Starter App is a copy of [react-onsenui-redux-weather](https://github.com/a
 
 - [Onsen UI](https://onsen.io/), a hybrid app framework that provides both Material Design and iOS flat design.
 
+- It uses [CrossWalk](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview)
+
 ## How to run it
 
 To run it simply do:
